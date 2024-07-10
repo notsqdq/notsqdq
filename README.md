@@ -11,6 +11,6 @@
 - 💪 Currently learning new generation firewalls : Palo Alto / Fortinet
 - 😄 Pronouns: He/Him
 - ⚡ Hobbies : Music, Playing Electric Guitar, Gunpla, Video Games
-- 📫 How to reach me: notsqdq@proton.me
+- 📫 Reach me via notsqdq@proton.me
 
-do not hesitate !
+do not hesitate ! :)
