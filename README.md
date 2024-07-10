@@ -5,7 +5,7 @@
 - ⏰ Available right now !
 - 👩🏻‍💻Server Administration : Windows Server / Linux
 - ☁️ Cloud : Microsoft Azure / Amazon Web Service
-- 🌐 Network : Cisco CCNA ready
+- 🌐 Network : Cisco CCNA certified
 - 💻 Virtualization : Hyper-V / VMWare ESXI
 - ⚙️ Automatization : Bash / Powershell / Python
 - 💪 Currently learning new generation firewalls : Palo Alto / Fortinet
