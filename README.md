@@ -9,7 +9,6 @@
 - 💻 Virtualization : Hyper-V / VMWare ESXI
 - ⚙️ Automatization : Bash / Powershell / Python
 - 💪 Currently learning new generation firewalls : Palo Alto / Fortinet
-- 😄 Pronouns: He/Him
 - ⚡ Hobbies : Music, Playing Electric Guitar, Gunpla, Video Games
 - 📫 Reach me via notsqdq@proton.me
 
