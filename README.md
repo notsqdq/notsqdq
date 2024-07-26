@@ -1,4 +1,4 @@
-## Welcome to my GitHub ! :D
+## Welcome to my GitHub 
 
 - 👋 Pleased to meet you ! My name is Ilias and I am 23 a years old network engineer based in Paris.
 - 🎓 Just finished my Network Engineer Degree, currently looking for a job or an apprenticeship to pursue.
