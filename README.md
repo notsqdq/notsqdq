@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 
 
-- 🎓 Just finished my Network Engineer Degree, currently looking for a job or an apprenticeship to pursue.
+- 🎓 Just finished my Network Engineer Degree.
 - 👩🏻‍💻Server Administration : Windows Server / Linux / RedHat
 - ☁️ Cloud : Microsoft Azure / Amazon Web Service
 - 🌐 Network : Cisco CCNA certified
